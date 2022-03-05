@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BDC7DA8DE4370EF3E9CC33CA /* Pods_Flights_App.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6122674AC7786E18ED1CD058 /* Pods_Flights_App.framework */; };
 		E72E92E5279E9DEC00A3CB30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72E92E4279E9DEC00A3CB30 /* AppDelegate.swift */; };
 		E72E92E9279E9DEC00A3CB30 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72E92E8279E9DEC00A3CB30 /* HomeViewController.swift */; };
 		E72E92EC279E9DEC00A3CB30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E72E92EA279E9DEC00A3CB30 /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDC7DA8DE4370EF3E9CC33CA /* Pods_Flights_App.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
